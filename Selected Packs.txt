@@ -1,0 +1,14 @@
+Vanilla Tweaks Crafting Tweaks
+Version: 1.15
+Packs:
+	12 trapdoors v1.0.0
+	back to blocks v1.1.0
+	coal to ink sacs v1.0.0
+	rotten flesh to leather v1.0.0
+	sandstone dyeing v1.0.0
+	uncraftable ice v1.0.0
+	uncraftable nether wart block v1.0.0
+	craftable notch apples v1.0.0
+	craftable name tags v1.0.0
+	wool to string v1.0.0
+	universal dyeing v1.2.0
