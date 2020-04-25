@@ -1,12 +1,16 @@
 {
-  "type": "crafting_shapeless",
-  "ingredients": [
-    {
-      "item": "minecraft:packed_ice"
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:snow_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:ice",
+        "count": 2
     }
-  ],
-  "result": {
-    "item": "minecraft:ice",
-	"count": 9
-  }
 }
